@@ -1,2 +1,2 @@
 # saiffagal
-a biomedical engineer who is searching for a coding in healthcare field
+Biomedical engineer who is searching for a software development job in healthcare field.
